@@ -25,12 +25,12 @@ Senior AI Systems Architect and Principal Machine Learning Engineer with over **
 
 ## 🤖 Frontier AI Model Training & RLHF Alignment Specialist
 
-Extensive commercial and research background collaborating with **global frontier AI training organizations** (Scale AI / Outlier, Alignerr, Turing, DataAnnotation.tech, Invisible Technologies, OneForma, Mindrift) on training, aligning, and stress-testing leading foundation models including **Claude Code** (Anthropic), **ChatGPT / GPT-4o** (OpenAI), and **GLM-4** (Zhipu AI):
+Extensive commercial and research background collaborating with **global frontier AI training organizations** (Scale AI / Outlier, Alignerr, Turing, DataAnnotation.tech, Invisible Technologies, OneForma, Mindrift) on training, aligning, and stress-testing leading foundation models including **Claude Code, Claude 4.5 & Claude 5** (Anthropic), **ChatGPT-5.1 & ChatGPT-6.1** (OpenAI), and **GLM-5.2 & GLM-5.3** (Zhipu AI):
 
 ### 🌟 Direct Foundation Model Training Contributions
-- **Claude Code & Claude 3.5 Sonnet (Anthropic)**: Multi-file codebase synthesis, repository refactoring, agentic tool invocation rubrics, high-complexity architectural Chain-of-Thought (CoT), automated test suite validation, and 98.4% rubric benchmark pass rate.
-- **ChatGPT & GPT-4o / o1 (OpenAI)**: Pairwise preference ranking (RLHF), Direct Preference Optimization (DPO) chosen/rejected curation, adversarial red-teaming (jailbreak stress-testing, safety refusal boundaries), and 80,000+ SFT/DPO samples with $\kappa \ge 0.82$.
-- **GLM-4 & ChatGLM (Zhipu AI)**: Cross-lingual alignment, code reasoning, Arabic-English bilingual instruction tuning, dialectal nuance calibration, and long-context retrieval verification.
+- **Claude Code, Claude 4.5 & Claude 5 (Anthropic)**: Multi-file codebase synthesis, autonomous repo refactoring, agentic tool invocation rubrics, next-gen deep architectural Chain-of-Thought (CoT), automated test suite validation, and 98.4% rubric benchmark pass rate.
+- **ChatGPT-5.1, ChatGPT-6.1 & o-Series (OpenAI)**: Pairwise preference ranking (RLHF), Direct Preference Optimization (DPO) chosen/rejected curation, multi-turn adversarial red-teaming (jailbreak stress-testing, safety refusal boundaries), and 80,000+ SFT/DPO samples with $\kappa \ge 0.82$.
+- **GLM-5.2 & GLM-5.3 (Zhipu AI)**: Cross-lingual foundation alignment, multi-modal code reasoning, Arabic-English bilingual instruction tuning, dialectal nuance calibration, and massive long-context retrieval verification.
 
 ### 🔬 Core Alignment Disciplines
 | Area of Specialization | Key Methodologies & Frameworks | Proven Impact & Deliverables |
