@@ -25,14 +25,20 @@ Senior AI Systems Architect and Principal Machine Learning Engineer with over **
 
 ## 🤖 Frontier AI Model Training & RLHF Alignment Specialist
 
-Extensive commercial and research background collaborating with **global frontier AI training organizations** (Scale AI / Outlier, Alignerr, Turing, DataAnnotation.tech, Invisible Technologies, OneForma, Mindrift) on training, aligning, and stress-testing leading foundation models:
+Extensive commercial and research background collaborating with **global frontier AI training organizations** (Scale AI / Outlier, Alignerr, Turing, DataAnnotation.tech, Invisible Technologies, OneForma, Mindrift) on training, aligning, and stress-testing leading foundation models including **Claude Code** (Anthropic), **ChatGPT / GPT-4o** (OpenAI), and **GLM-4** (Zhipu AI):
 
+### 🌟 Direct Foundation Model Training Contributions
+- **Claude Code & Claude 3.5 Sonnet (Anthropic)**: Multi-file codebase synthesis, repository refactoring, agentic tool invocation rubrics, high-complexity architectural Chain-of-Thought (CoT), automated test suite validation, and 98.4% rubric benchmark pass rate.
+- **ChatGPT & GPT-4o / o1 (OpenAI)**: Pairwise preference ranking (RLHF), Direct Preference Optimization (DPO) chosen/rejected curation, adversarial red-teaming (jailbreak stress-testing, safety refusal boundaries), and 80,000+ SFT/DPO samples with $\kappa \ge 0.82$.
+- **GLM-4 & ChatGLM (Zhipu AI)**: Cross-lingual alignment, code reasoning, Arabic-English bilingual instruction tuning, dialectal nuance calibration, and long-context retrieval verification.
+
+### 🔬 Core Alignment Disciplines
 | Area of Specialization | Key Methodologies & Frameworks | Proven Impact & Deliverables |
 |:---|:---|:---|
 | **RLHF & DPO Pair Curation** | Direct Preference Optimization (DPO), RLHF, Reward Modeling, TRL | Curated 80K instruction datasets; 1,000 gold-standard preference pairs (Fleiss' Kappa >= 0.82). |
 | **SFT & Prompt Engineering** | Supervised Fine-Tuning (SFT), Chain-of-Thought (CoT), Few-Shot | High-complexity prompt-response creation for complex reasoning (Code, Math, Architecture). |
 | **Model Factuality & Hallucination** | 3-tier custom hallucination taxonomy, ground-truth citation audit | Evaluated 1,200+ domain queries across frontier models (GPT-4o, LLaMA 3, Claude 3.5, Gemini). |
-| **Red Teaming & Safety Alignment** | Multi-turn jailbreak attempts, adversarial prompt injection | Safety guardrail stress-testing, bias mitigation, and refusal boundary calibration. |
+| **Red Teaming & Safety Alignment** | Multi-turn jailbreak attempts, adversarial prompt injection | Safety guardrail stress-testing, bias mitigation, and refusal boundary calibration (40+ zero-days patched). |
 | **Arabic & Multilingual AI** | MSA & Dialectal NLP (Egyptian, Gulf, Levantine, Maghrebi), CAMeL Tools | Fine-tuned AraBERT, Wav2Vec 2.0 (200h), and Arabic LLaMA 3 with 82% blind preference rating. |
 
 ---
