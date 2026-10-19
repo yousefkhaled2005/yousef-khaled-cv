@@ -114,6 +114,34 @@ Extensive commercial and research background collaborating with **global frontie
 
 ---
 
+## 🌐 Open Source & Hugging Face Hub Ecosystem
+
+### 🤖 Hugging Face Hub Models & Datasets (`huggingface.co/Yousef1258852`)
+- **[llama3-arabic-instruct](https://huggingface.co/Yousef1258852/llama3-arabic-instruct)**: QLoRA fine-tuned Arabic instruction LLM (82.0% human preference win rate vs GPT-3.5).
+- **[arabic-hallucination-detector](https://huggingface.co/Yousef1258852/arabic-hallucination-detector)**: 3-tier factual hallucination discriminator (F1 = 0.915).
+- **[arabic-ner-v2](https://huggingface.co/Yousef1258852/arabic-ner-v2)**: Named entity recognition for Arabic: PER/ORG/LOC/DATE (F1 = 0.928).
+- **[wav2vec2-egyptian-arabic](https://huggingface.co/Yousef1258852/wav2vec2-egyptian-arabic)**: Acoustic ASR fine-tuned on 200h Egyptian corpus (WER = 18.9%).
+- **[arabert-sentiment-v2](https://huggingface.co/Yousef1258852/arabert-sentiment-v2)**: Fine-tuned AraBERT Arabic sentiment classifier (F1 = 0.914).
+- **[arabic-dialect-classifier](https://huggingface.co/Yousef1258852/arabic-dialect-classifier)**: 5-class Arabic dialect identification (EGY, GLF, LEV, NOR, MSA, F1 = 0.870).
+- **[arabert-summarization-news](https://huggingface.co/Yousef1258852/arabert-summarization-news)**: Abstractive Arabic news summarizer (ROUGE-1 = 41.2).
+- **[arabic-medical-qa-bert](https://huggingface.co/Yousef1258852/arabic-medical-qa-bert)**: Biomedical clinical QA for Arabic healthcare (F1 = 0.862).
+- **[arabic-dialect-eval-1k](https://huggingface.co/datasets/Yousef1258852/arabic-dialect-eval-1k)**: 1,000 balanced benchmark sentences for multi-dialectal evaluation.
+- **[arabic-rlhf-preferences](https://huggingface.co/datasets/Yousef1258852/arabic-rlhf-preferences)**: 1,000 paired preference dataset for DPO/RLHF alignment.
+
+### 🏛️ Key Production GitHub Repositories (`github.com/yousefkhaled2005`)
+- **[arabic-llm-platform](https://github.com/yousefkhaled2005/arabic-llm-platform)**: Full QLoRA + DPO fine-tuning pipeline & vLLM serving.
+- **[production-rag-arabic](https://github.com/yousefkhaled2005/production-rag-arabic)**: LangChain + Qdrant RAG over 10K+ legal docs.
+- **[multi-agent-research](https://github.com/yousefkhaled2005/multi-agent-research)**: LangGraph autonomous research & report generation agent.
+- **[arabic-asr-pipeline](https://github.com/yousefkhaled2005/arabic-asr-pipeline)**: Wav2Vec 2.0 Egyptian dialect ASR microservice.
+- **[llm-inference-benchmark](https://github.com/yousefkhaled2005/llm-inference-benchmark)**: Empirical benchmark of vLLM vs llama.cpp vs Triton.
+- **[arabic-bert-benchmark](https://github.com/yousefkhaled2005/arabic-bert-benchmark)**: AraBERT vs mBERT systematic empirical study.
+- **[arabic-dialect-dataset](https://github.com/yousefkhaled2005/arabic-dialect-dataset)**: 5,000-sentence multi-dialect evaluation benchmark.
+- **[yolov4-arabic-ocr](https://github.com/yousefkhaled2005/yolov4-arabic-ocr)**: Real-time scene text detection & CRNN-CTC for Arabic storefronts.
+- **[rlhf-annotation-tools](https://github.com/yousefkhaled2005/rlhf-annotation-tools)**: Python toolkit for preference data QA (Kappa agreement).
+- **[ml-system-design](https://github.com/yousefkhaled2005/ml-system-design)**: Architecture patterns for production AI systems.
+
+---
+
 ## 📥 Direct PDF Download
 
 The official verified PDF version of this resume is stored directly in this repository:  
