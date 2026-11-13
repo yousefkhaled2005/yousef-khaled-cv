@@ -45,15 +45,27 @@ Extensive commercial and research background collaborating with **global frontie
 
 ## 🎓 Education
 
-**B.Sc. in Computer & Control Systems Engineering**  
-*Faculty of Engineering · Benha University · Banha, Egypt · Graduated with Honours (Sep 1999 – Jun 2004)*  
-- **Graduation Thesis**: *'Adaptive Control Systems for Industrial Process Automation Using Fuzzy Logic and Neural Networks'* — **Grade: Excellent**.
-- **Core Curricula**: Control Theory, Digital Signal Processing, Electronics, Algorithms, Computer Architecture, Embedded Systems.
-- **Capstone Engineering**: PID auto-tuning system using a neural network controller implemented in C on AVR hardware.
+- **Ph.D. in Computer Science** — Germany (2010)
+- **M.Sc. in Computer Science** — Faculty of Engineering, Cairo University, Cairo, Egypt (2006)
+- **B.Sc. in Computer & Control Systems Engineering** — Faculty of Engineering, Benha University, Banha, Egypt · *Graduated with Honours (Grade: Excellent)* (1999 – 2004)
+  - **Graduation Thesis**: *'Adaptive Control Systems for Industrial Process Automation Using Fuzzy Logic and Neural Networks'*
+  - **Capstone Project**: PID auto-tuning system using a neural network controller implemented in C on AVR hardware
 
 ---
 
 ## 💼 Professional Experience
+
+### 2024 – 2026 | Frontier AI Evaluation & Alignment Leadership
+- **Quality Control Manager** — RWS (TrainAI) · Remote *(Sep 2026 – Present)*
+  - Lead QC audits for software-engineering and AI-evaluation workstreams; standardize evaluation processes, review rubrics, and automated test readiness.
+- **Senior Software Engineer / AI Evaluation Engineer** — Turing · Remote *(Jul 2026 – Nov 2026)*
+  - Designed, reviewed, and remediated Harbor-structured AI evaluation tasks (`task.toml`, Docker, deterministic verifiers, automated tests, golden trajectories across LLMs).
+- **AI Code Quality and Evaluation Specialist (Claude Code Evaluation)** — Alignerr · Remote *(Mar 2025 – Oct 2026)*
+  - Evaluated Claude Code outputs across SWE-bench tasks and GitHub repos; assessed algorithmic efficiency and security across 12 targeted assignments.
+- **AI Training Contributor (ChatGPT)** — Handshake AI · Remote *(2025 – 2026)*
+  - Conducted RLHF comparative evaluation, preference ranking, and instruction-following quality audits for ChatGPT models.
+- **Software Engineering Contributor (C++)** — Outlier AI · Remote *(2024 – 2025)*
+  - Code generation evaluation and edge-case test case development for AI model training.
 
 ### 2022 – Present | LLM Era · Foundation Models · Autonomous Agents
 **Senior AI Systems Architect — Principal**  
@@ -145,4 +157,5 @@ Extensive commercial and research background collaborating with **global frontie
 ## 📥 Direct PDF Download
 
 The official verified PDF version of this resume is stored directly in this repository:  
-👉 **[Download Yousef_Khaled_Senior_AI_Architect_CV.pdf](./Yousef_Khaled_Senior_AI_Architect_CV.pdf)**
+👉 **[Download Yousef_Khaled_Senior_AI_Architect_CV.pdf](./Yousef_Khaled_Senior_AI_Architect_CV.pdf)**  
+👉 **[Direct Link: yousef_cv2005.pdf](./yousef_cv2005.pdf)**
